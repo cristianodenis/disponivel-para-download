@@ -1,0 +1,2 @@
+acesse e faça a conexao do seu app tarefas atraves do qrcode.
+https://tarefas-web.herokuapp.com
